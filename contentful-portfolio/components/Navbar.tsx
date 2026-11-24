@@ -7,7 +7,7 @@ export default function Navbar() {
         <Link
           href="/"
           className="text-lg font-bold tracking-tight text-white"
-        >
+        >git commit
           Rosa Ragwar Tech
         </Link>
 
